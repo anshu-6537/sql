@@ -1,0 +1,1 @@
+UPDATE Student SET Roll_no = 10 WHERE Marks>80
